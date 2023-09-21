@@ -27,7 +27,7 @@ input {
     border: none;
     outline: none;
     font-size: 20px;
-    border-radius: 10px;
+    border-radius: 20px;
     transition: .5s;
     padding: 0px 50px 0px 50px;
 }
@@ -48,4 +48,5 @@ input:focus {
 
 div > i {
     font-size: 30px;
+    cursor: pointer;
 }
