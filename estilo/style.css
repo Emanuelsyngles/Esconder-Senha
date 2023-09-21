@@ -7,4 +7,11 @@
 
 body {
     background-color: tomato;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
+
+/*Estilizando a div geral*/
+
