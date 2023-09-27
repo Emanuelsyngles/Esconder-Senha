@@ -1,5 +1,5 @@
 ![Captura de tela 2023-09-27 200454](https://github.com/Emanuelsyngles/Esconder-Senha/assets/122393755/8387b011-a4b1-49f1-9c69-093b15af122c)
-![Captura de tela 2023-09-27 200929](https://github.com/Emanuelsyngles/Esconder-Senha/assets/122393755/50e3fb41-80de-43e5-b0ec-c06e0459e43f)
+![escondida](https://github.com/Emanuelsyngles/Esconder-Senha/assets/122393755/f86716b8-d7e4-4186-834e-c9170813847c)
 
 
 
