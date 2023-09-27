@@ -1,5 +1,6 @@
 ![Captura de tela 2023-09-27 200454](https://github.com/Emanuelsyngles/Esconder-Senha/assets/122393755/8387b011-a4b1-49f1-9c69-093b15af122c)
-![Captura de tela 2023-09-27 200508](https://github.com/Emanuelsyngles/Esconder-Senha/assets/122393755/79c6f68d-9b9a-4253-9dde-6f2de6183582).
+![escondida](https://github.com/Emanuelsyngles/Esconder-Senha/assets/122393755/ed68131c-371d-48b0-bc40-cd839ddd5014)
+
 
  ## Informações
  Sabe aqueles sites que você entra e tem a opção de esconder a sua senha? esse projeto tem a mesma funcionalidade.
